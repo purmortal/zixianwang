@@ -1,7 +1,7 @@
 ---
 title: "Tutor, BUSS6002: Data Science in Business"
 collection: teaching
-type: "Postgraduate course"
+type: "Master course"
 permalink: /teaching/2022-data-science-business
 venue: "University of Sydney, Business School"
 period: 2022-2023
