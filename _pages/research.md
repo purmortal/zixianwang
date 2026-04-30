@@ -15,7 +15,7 @@ Key paper:
 
 - **Wang et al. 2022**, *Reliable stellar abundances of individual stars with the MUSE integral-field spectrograph*, MNRAS, 514, 1034 — [NASA ADS](https://ui.adsabs.harvard.edu/abs/2022MNRAS.514.1034W/abstract)
   
-![Comparison between an observed MUSE spectrum and a DD-Payne model prediction]({{ "/images/wang2022_fig3.jpg" | relative_url }})
+![Comparison between an observed MUSE spectrum and a DD-Payne model prediction]({{ "zixianwang/images/wang2022_fig3.jpg" | relative_url }})
 
 *This figure shows an example MUSE spectrum compared with a model prediction from a neural network model _Data-Driven Payne_ ([Xiang et al. 2019](https://ui.adsabs.harvard.edu/abs/2019ApJS..245...34X/abstract)). The small residuals demonstrate that the machine-learning model can reproduce MUSE spectra well, including the absorption features used for abundance measurements.*
 
