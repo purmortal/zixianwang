@@ -26,7 +26,6 @@ Supervisor: Jiwei Xie
 
 
 Professional Employment
-
 ======
 
 **Postdoctoral Research Associate**  
