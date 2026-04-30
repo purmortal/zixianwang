@@ -64,7 +64,7 @@ Example:
 ![Galactic bulge MUSE observations](/images/research/galactic-bulge.png)
 -->
 
-Linking Galactic and extragalactic archaeology
+Linking Galactic and extragalactic
 ======
 
 A central goal of my research is to connect detailed studies of the Milky Way with observations of external galaxies. 
