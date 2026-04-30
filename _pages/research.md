@@ -8,19 +8,15 @@ Machine learning in stellar spectroscopy
 ======
 
 A major part of my research is employing machine-learning methods to infer stellar parameters and chemical abundances from spectra, especially in crowded stellar fields where traditional fibre-fed spectrographs are limited. 
-I have shown that MUSE integral-field spectroscopy, despite its moderate spectral resolution, can be used to measure reliable stellar abundances for individual stars when combined with data-driven and theoretical spectral models (e.g., _DD-Payne_).
+I have shown that MUSE integral-field spectroscopy, despite its moderate spectral resolution, can be used to measure reliable stellar abundances for individual stars when combined with data-driven and theoretical spectral models (e.g., Data-Driven Payne).
 This work opens a new pathway for Galactic archaeology in dense environments such as the Galactic bulge, globular clusters, and nearby galaxies.
 
 Key paper:
 
 - **Wang et al. 2022**, *Reliable stellar abundances of individual stars with the MUSE integral-field spectrograph*, MNRAS, 514, 1034 — [NASA ADS](https://ui.adsabs.harvard.edu/abs/2022MNRAS.514.1034W/abstract)
   
-<!-- Plot placeholder:
-Add figure showing machine-learning stellar spectroscopy workflow, abundance validation, or MUSE crowded-field spectra.
-
-Example:
-![Machine-learning stellar spectroscopy](/images/research/ml-stellar-spectroscopy.png)
--->
+![Comparison between an observed MUSE spectrum and a DD-Payne-G model prediction](/images/wang2022_fig3.png)
+*This figure shows an example MUSE spectrum compared with a model prediction from a neural network model _Data-Driven Payne_ ([Xiang et al. 2019](https://ui.adsabs.harvard.edu/abs/2019ApJS..245...34X/abstract)). The small residuals demonstrate that the machine-learning model can reproduce MUSE spectra well, including the absorption features used for abundance measurements.*
 
 Globular clusters
 ======
