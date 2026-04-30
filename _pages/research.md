@@ -37,6 +37,10 @@ Key papers:
 
 *This figure summarises the Na absorption analysis from **Wang et al. 2025, oMEGACat VII**. The left panel shows the spatial distribution of foreground Na atomic gas toward ω Centauri, measured from Voronoi-binned MUSE spectra. The clear spatial substructure is consistent with previously measured differential reddening across the cluster field. The right panel shows the stacked spectrum of hot horizontal-branch stars used to search for Na I D absorption from intracluster gas in ω Centauri. No significant intracluster Na atomic gas is detected from the D1 absorption line.*
 
+![Chromosome diagram of Omega Centauri stars from oMEGACat DD-Payne abundances](/images/wang2026_fig6.jpg)
+
+*This figure shows the chromosome diagram of ω Centauri stars from **Wang et al. 2026, oMEGACat IX** measured from MUSE spectra. The top-left panel shows individual oMEGACat DD-Payne stars colour-coded by metallicity, while the other panels show median chemical abundances across the diagram. The figure highlights how different stellar streams in ω Centauri separate in chemical-abundance space, providing a powerful way to chemically tag multiple stellar populations in the cluster.*
+
 Galactic bulge
 ======
 
