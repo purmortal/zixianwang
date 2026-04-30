@@ -13,8 +13,8 @@ This work opens a new pathway for Galactic archaeology in dense environments suc
 
 Key paper:
 
-- Wang et al. 2022, *MNRAS*, 514, 1034 — [NASA ADS](https://ui.adsabs.harvard.edu/abs/2022MNRAS.514.1034W/abstract)
-
+- **Wang et al. 2022**, *Reliable stellar abundances of individual stars with the MUSE integral-field spectrograph*, MNRAS, 514, 1034 — [NASA ADS](https://ui.adsabs.harvard.edu/abs/2022MNRAS.514.1034W/abstract)
+  
 <!-- Plot placeholder:
 Add figure showing machine-learning stellar spectroscopy workflow, abundance validation, or MUSE crowded-field spectra.
 
@@ -33,8 +33,8 @@ These studies use large spectroscopic samples to connect stellar chemistry, kine
 
 Key papers:
 
-- Wang et al. 2025, *ApJ*, 994, 143 — [NASA ADS](https://ui.adsabs.harvard.edu/abs/2025ApJ...994..143W/abstract)
-- Wang et al. 2026, arXiv:2603.01041, submitted to *ApJ* — [NASA ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260301041W/abstract)
+- **Wang et al. 2025**, *oMEGACat. VII. Tracing Interstellar and Intracluster Medium of ω Centauri using Sodium Absorptions*, ApJ, 994, 143 — [NASA ADS](https://ui.adsabs.harvard.edu/abs/2025ApJ...994..143W/abstract)
+- **Wang et al. 2026**, *oMEGACat. IX. Chemical Tagging of Omega Centauri Populations with Machine-Learning-Inferred Abundances from the MUSE Spectrograph*, arXiv:2603.01041, submitted to ApJ — [NASA ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260301041W/abstract)
 
 <!-- Plot placeholder:
 Add figure showing Omega Centauri abundance distributions, subpopulation map, or MUSE field coverage.
@@ -55,8 +55,8 @@ By combining ages, chemistry, and kinematics, this project provides a new observ
 
 Key paper:
 
-- Wang et al. 2025, arXiv:2512.09527, submitted to *Nature Astronomy* — [NASA ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv251209527W/abstract)
-
+- **Wang et al. 2025**, *Age, Chemistry, and Kinematics of the Inner Galaxy Revealed by MUSE*, arXiv:2512.09527, submitted to Nature Astronomy — [NASA ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv251209527W/abstract)
+  
 <!-- Plot placeholder:
 Add figure showing the MUSE bulge field, colour-magnitude diagram, age-metallicity relation, or kinematic/chemical maps.
 
@@ -78,8 +78,8 @@ This work supports broader efforts in surveys such as GECKOS to understand galax
 
 Key paper:
 
-- Wang et al. 2024, *MNRAS*, 534, 1175 — [NASA ADS](https://ui.adsabs.harvard.edu/abs/2024MNRAS.534.1175W/abstract)
-
+- **Wang et al. 2024**, *Validating full-spectrum fitting with a synthetic integral-field spectroscopic observation of the Milky Way*, MNRAS, 534, 1175 — [NASA ADS](https://ui.adsabs.harvard.edu/abs/2024MNRAS.534.1175W/abstract)
+  
 <!-- Plot placeholder:
 Add figure showing GalCraft workflow, mock Milky Way IFS cube, or Milky Way-external galaxy comparison.
 
