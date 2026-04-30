@@ -7,8 +7,8 @@ author_profile: true
 Machine learning in stellar spectroscopy
 ======
 
-A major part of my research is developing machine-learning methods to infer stellar parameters and chemical abundances from spectra, especially in crowded stellar fields where traditional fibre-fed spectrographs are limited. 
-I have shown that MUSE integral-field spectroscopy, despite its moderate spectral resolution, can be used to measure reliable stellar abundances for individual stars when combined with data-driven and theoretical spectral models.
+A major part of my research is employing machine-learning methods to infer stellar parameters and chemical abundances from spectra, especially in crowded stellar fields where traditional fibre-fed spectrographs are limited. 
+I have shown that MUSE integral-field spectroscopy, despite its moderate spectral resolution, can be used to measure reliable stellar abundances for individual stars when combined with data-driven and theoretical spectral models (e.g., _DD-Payne_).
 This work opens a new pathway for Galactic archaeology in dense environments such as the Galactic bulge, globular clusters, and nearby galaxies.
 
 Key paper:
