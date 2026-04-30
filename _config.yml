@@ -13,7 +13,7 @@ title                    : "Dr Zixian Wang"
 title_separator          : "-"
 name                     : &name "Zixian Wang"
 description              : &description "Astrophysicist working on stellar spectroscopy, Galactic archaeology, stellar populations, and integral-field spectroscopy."
-url                      : https://purmortal.github.io/zixianwang/
+url                      : https://purmortal.github.io/zixianwang
 baseurl                  : ""
 repository               : "purmortal/purmortal.github.io"
 
@@ -29,7 +29,7 @@ author:
   bio              : "Postdoctoral Research Associate at the University of Utah. I study stellar spectroscopy, stellar populations, Galactic archaeology, and the connection between the Milky Way and external galaxies."
   location         : "Salt Lake City, Utah, USA"
   employer         : "University of Utah"
-  uri              : "https://purmortal.github.io/zixianwang/"
+  uri              : "https://purmortal.github.io/zixianwang"
   email            : "wang.zixian.astro@gmail.com"
 
   # Academic websites
