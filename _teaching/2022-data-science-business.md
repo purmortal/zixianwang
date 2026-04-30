@@ -10,4 +10,4 @@ location: "Sydney, Australia"
 
 Tutor for BUSS6002: Data Science in Business at the University of Sydney.
 
-This course introduced students to Python programming, data analysis, and the application of computational methods to real-world business and economic problems.
+Master course introduced students to Python programming, data analysis, and the application of computational methods to real-world business and economic problems.
