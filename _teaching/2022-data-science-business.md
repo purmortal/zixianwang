@@ -4,7 +4,7 @@ collection: teaching
 type: "Postgraduate course"
 permalink: /teaching/2022-data-science-business
 venue: "University of Sydney, Business School"
-date: 2022-2023
+period: 2022-2023
 location: "Sydney, Australia"
 ---
 
