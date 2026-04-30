@@ -59,42 +59,42 @@ First-author and significant-contribution publications
 Remaining publications
 ======
 
-1. Benjamin J. Gibson, Gail Zasowski, Anil C. Seth, Dimitri A. Gadotti, **Zixian Wang**, et al.,  
+9. Benjamin J. Gibson, Gail Zasowski, Anil C. Seth, Dimitri A. Gadotti, **Zixian Wang**, et al.,  
    “Towards understanding the Milky Way’s typicality: assessing the chemodynamics of M31’s bulge and bar, thick and thin discs”,  
    2025, *Monthly Notices of the Royal Astronomical Society*, 542, 669.  
    [[NASA ADS](https://ui.adsabs.harvard.edu/abs/2025MNRAS.542..669G/abstract)]
 
-2. Amelia Fraser-McKelvie, Jesse van de Sande, Dimitri A. Gadotti, Eric Emsellem, Toby Brown, et al. including **Zixian Wang**,  
+10. Amelia Fraser-McKelvie, Jesse van de Sande, Dimitri A. Gadotti, Eric Emsellem, Toby Brown, et al. including **Zixian Wang**,  
    “The GECKOS survey: Identifying kinematic sub-structures in edge-on galaxies”,  
    2025, *Astronomy & Astrophysics*, 700, A237.  
    [[NASA ADS](https://ui.adsabs.harvard.edu/abs/2025A%26A...700A.237F/abstract)]
 
-3. Sven Buder, Janez Kos, Ella X. Wang, Madeleine McKenzie, Madeline Howell, et al. including **Zixian Purmortal Wang**,  
+11. Sven Buder, Janez Kos, Ella X. Wang, Madeleine McKenzie, Madeline Howell, et al. including **Zixian Purmortal Wang**,  
    “The GALAH survey: Data release 4”,  
    2025, *Publications of the Astronomical Society of Australia*, 42, e051.  
    [[NASA ADS](https://ui.adsabs.harvard.edu/abs/2025PASA...42...51B/abstract)]
 
-4. Maximilian Häberle, Nadine Neumayer, Callie Clontz, Anil C. Seth, Peter J. Smith, et al. including **Zixian Wang**,  
+12. Maximilian Häberle, Nadine Neumayer, Callie Clontz, Anil C. Seth, Peter J. Smith, et al. including **Zixian Wang**,  
    “oMEGACat. VI. Analysis of the Overall Kinematics of Omega Centauri in 3D: Velocity Dispersion, Kinematic Distance, Anisotropy, and Energy Equipartition”,  
    2025, *The Astrophysical Journal*, 983, 95.  
    [[NASA ADS](https://ui.adsabs.harvard.edu/abs/2025ApJ...983...95H/abstract)]
 
-5. Callie Clontz, Anil C. Seth, Aaron Dotter, Maximilian Häberle, Maria Selina Nitschai, Nadine Neumayer, Anja Feldmeier-Krause, et al. including **Zixian Wang**,  
+13. Callie Clontz, Anil C. Seth, Aaron Dotter, Maximilian Häberle, Maria Selina Nitschai, Nadine Neumayer, Anja Feldmeier-Krause, et al. including **Zixian Wang**,  
    “oMEGACat. IV. Constraining the Ages of Omega Centauri Subgiant Branch Stars with HST and MUSE”,  
    2024, *The Astrophysical Journal*, 977, 14.  
    [[NASA ADS](https://ui.adsabs.harvard.edu/abs/2024ApJ...977...14C/abstract)]
 
-6. Maria Selina Nitschai, Nadine Neumayer, Maximilian Häberle, Callie Clontz, Anil C. Seth, et al. including **Zixian Wang**,  
+14. Maria Selina Nitschai, Nadine Neumayer, Maximilian Häberle, Callie Clontz, Anil C. Seth, et al. including **Zixian Wang**,  
    “oMEGACat. III. Multiband Photometry and Metallicities Reveal Spatially Well-mixed Populations within ω Centauri’s Half-light Radius”,  
    2024, *The Astrophysical Journal*, 970, 152.  
    [[NASA ADS](https://ui.adsabs.harvard.edu/abs/2024ApJ...970..152N/abstract)]
 
-7. Michael R. Hayden, Sanjib Sharma, Joss Bland-Hawthorn, Lorenzo Spina, Sven Buder, et al. including **Purmortal Wang**,  
+15. Michael R. Hayden, Sanjib Sharma, Joss Bland-Hawthorn, Lorenzo Spina, Sven Buder, et al. including **Purmortal Wang**,  
    “The GALAH survey: chemical clocks”,  
    2022, *Monthly Notices of the Royal Astronomical Society*, 517, 5325.  
    [[NASA ADS](https://ui.adsabs.harvard.edu/abs/2022MNRAS.517.5325H/abstract)]
 
-8. Sanjib Sharma, Michael R. Hayden, Joss Bland-Hawthorn, Dennis Stello, Sven Buder, et al. including **Purmortal Wang**,  
+16. Sanjib Sharma, Michael R. Hayden, Joss Bland-Hawthorn, Dennis Stello, Sven Buder, et al. including **Purmortal Wang**,  
    “The GALAH Survey: dependence of elemental abundances on age and metallicity for stars in the Galactic disc”,  
    2022, *Monthly Notices of the Royal Astronomical Society*, 510, 734.  
    [[NASA ADS](https://ui.adsabs.harvard.edu/abs/2022MNRAS.510..734S/abstract)]
