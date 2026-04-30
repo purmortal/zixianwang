@@ -33,12 +33,9 @@ Key papers:
 - **Wang et al. 2025**, *oMEGACat. VII. Tracing Interstellar and Intracluster Medium of ω Centauri using Sodium Absorptions*, ApJ, 994, 143 — [NASA ADS](https://ui.adsabs.harvard.edu/abs/2025ApJ...994..143W/abstract)
 - **Wang et al. 2026**, *oMEGACat. IX. Chemical Tagging of Omega Centauri Populations with Machine-Learning-Inferred Abundances from the MUSE Spectrograph*, arXiv:2603.01041, submitted to ApJ — [NASA ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260301041W/abstract)
 
-<!-- Plot placeholder:
-Add figure showing Omega Centauri abundance distributions, subpopulation map, or MUSE field coverage.
+![Foreground and intracluster Na absorption toward Omega Centauri](/images/wang2025_fig.jpg)
 
-Example:
-![Omega Centauri stellar populations](/images/research/omega-cen.png)
--->
+*This figure summarises the Na absorption analysis from **Wang et al. 2025, oMEGACat VII**. The left panel shows the spatial distribution of foreground Na atomic gas toward ω Centauri, measured from Voronoi-binned MUSE spectra. The clear spatial substructure is consistent with previously measured differential reddening across the cluster field. The right panel shows the stacked spectrum of hot horizontal-branch stars used to search for Na I D absorption from intracluster gas in ω Centauri. No significant intracluster Na atomic gas is detected from the D1 absorption line.*
 
 Galactic bulge
 ======
