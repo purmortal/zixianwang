@@ -26,4 +26,4 @@ Research interests
 Contact
 ======
 
-Please see the sidebar for links to my ORCID, Google Scholar, GitHub, and email.
+Please see the sidebar for links to my ORCID, Google Scholar, GitHub, and email [wang.zixian.astro at gmail.com].
