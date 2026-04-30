@@ -4,7 +4,7 @@ collection: teaching
 type: "Postgraduate course"
 permalink: /teaching/2024-spring-astr6570-galaxies
 venue: "University of Utah, Department of Physics & Astronomy"
-date: 2024
+period: 2024
 location: "Salt Lake City, Utah, USA"
 ---
 
