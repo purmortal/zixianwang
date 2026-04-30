@@ -1,0 +1,88 @@
+---
+permalink: /research/
+title: "Research"
+author_profile: true
+---
+
+Machine learning in stellar spectroscopy
+======
+
+A major part of my research is developing machine-learning methods to infer stellar parameters and chemical abundances from spectra, especially in crowded stellar fields where traditional fibre-fed spectrographs are limited. 
+I have shown that MUSE integral-field spectroscopy, despite its moderate spectral resolution, can be used to measure reliable stellar abundances for individual stars when combined with data-driven and theoretical spectral models.
+This work opens a new pathway for Galactic archaeology in dense environments such as the Galactic bulge, globular clusters, and nearby galaxies.
+
+Key paper:
+
+- Wang et al. 2022, *MNRAS*, 514, 1034 — [NASA ADS](https://ui.adsabs.harvard.edu/abs/2022MNRAS.514.1034W/abstract)
+
+<!-- Plot placeholder:
+Add figure showing machine-learning stellar spectroscopy workflow, abundance validation, or MUSE crowded-field spectra.
+
+Example:
+![Machine-learning stellar spectroscopy](/images/research/ml-stellar-spectroscopy.png)
+-->
+
+Globular clusters
+======
+
+I study globular clusters as dense stellar systems that preserve information about star formation, chemical enrichment, and the early assembly history of galaxies. 
+Much of my recent work focuses on Omega Centauri, one of the most complex stellar systems in the Milky Way and a possible stripped nuclear star cluster.
+
+Using MUSE spectroscopy, I have investigated chemical abundances, multiple stellar populations, sodium absorption, interstellar and intracluster medium, and the broader enrichment history of Omega Centauri. 
+These studies use large spectroscopic samples to connect stellar chemistry, kinematics, and cluster formation history.
+
+Key papers:
+
+- Wang et al. 2025, *ApJ*, 994, 143 — [NASA ADS](https://ui.adsabs.harvard.edu/abs/2025ApJ...994..143W/abstract)
+- Wang et al. 2026, arXiv:2603.01041, submitted to *ApJ* — [NASA ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260301041W/abstract)
+
+<!-- Plot placeholder:
+Add figure showing Omega Centauri abundance distributions, subpopulation map, or MUSE field coverage.
+
+Example:
+![Omega Centauri stellar populations](/images/research/omega-cen.png)
+-->
+
+Galactic bulge
+======
+
+The Galactic bulge is one of the most important regions for understanding the formation history of the Milky Way. 
+However, it is also difficult to study because of crowding, extinction, and the challenge of obtaining reliable ages for stars in the inner Galaxy.
+
+I led a deep VLT/MUSE program targeting a low-extinction field in the inner Milky Way (Baade's window). 
+This work directly detects main-sequence turn-off stars in the Galactic bulge, which are among the most reliable stellar age tracers. 
+By combining ages, chemistry, and kinematics, this project provides a new observational window into the formation history and chemo-dynamical structure of the inner Galaxy.
+
+Key paper:
+
+- Wang et al. 2025, arXiv:2512.09527, submitted to *Nature Astronomy* — [NASA ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv251209527W/abstract)
+
+<!-- Plot placeholder:
+Add figure showing the MUSE bulge field, colour-magnitude diagram, age-metallicity relation, or kinematic/chemical maps.
+
+Example:
+![Galactic bulge MUSE observations](/images/research/galactic-bulge.png)
+-->
+
+Linking Galactic and extragalactic archaeology
+======
+
+A central goal of my research is to connect detailed studies of the Milky Way with observations of external galaxies. 
+The Milky Way can be studied star by star, while external galaxies are usually observed through integrated light. This difference makes direct comparison difficult.
+
+To address this, I developed **GalCraft**, a forward-modelling framework that generates mock integral-field spectroscopic observations of Milky Way-like galaxies. 
+GalCraft allows Milky Way models to be “observed” as if they were external galaxies, enabling the same analysis tools to be applied to both mock Milky Way observations and real galaxy data. 
+This provides a way to validate full-spectrum fitting methods and to place the Milky Way and external galaxies on the same observational footing.
+
+This work supports broader efforts in surveys such as GECKOS to understand galaxy evolution by combining Galactic archaeology, stellar population modelling, and integral-field spectroscopy.
+
+Key paper:
+
+- Wang et al. 2024, *MNRAS*, 534, 1175 — [NASA ADS](https://ui.adsabs.harvard.edu/abs/2024MNRAS.534.1175W/abstract)
+
+<!-- Plot placeholder:
+Add figure showing GalCraft workflow, mock Milky Way IFS cube, or Milky Way-external galaxy comparison.
+
+Example:
+![GalCraft and Galactic-extragalactic connection](/images/research/galcraft.png)
+-->
