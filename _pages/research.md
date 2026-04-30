@@ -75,9 +75,6 @@ Key paper:
 
 - **Wang et al. 2024**, *Validating full-spectrum fitting with a synthetic integral-field spectroscopic observation of the Milky Way*, MNRAS, 534, 1175 — [NASA ADS](https://ui.adsabs.harvard.edu/abs/2024MNRAS.534.1175W/abstract)
   
-<!-- Plot placeholder:
-Add figure showing GalCraft workflow, mock Milky Way IFS cube, or Milky Way-external galaxy comparison.
+![GalCraft framework for linking Galactic and extragalactic archaeology]({{ "zixianwang/images/galcraft.jpg" | relative_url }})
 
-Example:
-![GalCraft and Galactic-extragalactic connection](/images/research/galcraft.png)
--->
+*This figure demonstrates **GalCraft** as a transforming framework for creating mock integral-field spectroscopic observations of Milky Way-like models, enabling direct comparison with external galaxies.*
