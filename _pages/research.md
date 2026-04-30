@@ -33,11 +33,11 @@ Key papers:
 - **Wang et al. 2025**, *oMEGACat. VII. Tracing Interstellar and Intracluster Medium of ω Centauri using Sodium Absorptions*, ApJ, 994, 143 — [NASA ADS](https://ui.adsabs.harvard.edu/abs/2025ApJ...994..143W/abstract)
 - **Wang et al. 2026**, *oMEGACat. IX. Chemical Tagging of Omega Centauri Populations with Machine-Learning-Inferred Abundances from the MUSE Spectrograph*, arXiv:2603.01041, submitted to ApJ — [NASA ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260301041W/abstract)
 
-![Foreground and intracluster Na absorption toward Omega Centauri](zixianwang/images/wang2025_fig.jpg)
+![Foreground and intracluster Na absorption toward Omega Centauri]({{ "zixianwang/images/wang2025_fig.jpg" | relative_url }})
 
 *This figure summarises the Na absorption analysis from **Wang et al. 2025, oMEGACat VII**. The left panel shows the spatial distribution of foreground Na atomic gas toward ω Centauri, measured from Voronoi-binned MUSE spectra. The clear spatial substructure is consistent with previously measured differential reddening across the cluster field. The right panel shows the stacked spectrum of hot horizontal-branch stars used to search for Na I D absorption from intracluster gas in ω Centauri. No significant intracluster Na atomic gas is detected from the D1 absorption line.*
 
-![Chromosome diagram of Omega Centauri stars from oMEGACat DD-Payne abundances](zixianwang/images/wang2026_fig6.jpg)
+![Chromosome diagram of Omega Centauri stars from oMEGACat DD-Payne abundances]({{ "zixianwang/images/wang2026_fig6.jpg" | relative_url }})
 
 *This figure shows the chromosome diagram of ω Centauri stars from **Wang et al. 2026, oMEGACat IX** measured from MUSE spectra. The top-left panel shows individual oMEGACat DD-Payne stars colour-coded by metallicity, while the other panels show median chemical abundances across the diagram. The figure highlights how different stellar streams in ω Centauri separate in chemical-abundance space, providing a powerful way to chemically tag multiple stellar populations in the cluster.*
 
@@ -55,7 +55,7 @@ Key paper:
 
 - **Wang et al. 2025**, *Age, Chemistry, and Kinematics of the Inner Galaxy Revealed by MUSE*, arXiv:2512.09527, submitted to Nature Astronomy — [NASA ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv251209527W/abstract)
   
-![MUSE observations and age distribution of inner Milky Way stars](zixianwang/images/wang2025na_fig.jpg)
+![MUSE observations and age distribution of inner Milky Way stars]({{ "zixianwang/images/wang2025na_fig.jpg" | relative_url }})
 
 *This figure summarises the MUSE study of Baade’s Window from **Wang et al. 2025**, submitted to *Nature Astronomy*. The left panel shows the MUSE field of view, with main-sequence turn-off/subgiant stars and giant stars in the inner Milky Way highlighted. The right panel shows the age distribution of the 98 main-sequence turn-off/subgiant stars, with Gaussian mixture model peaks indicating multiple stellar age populations in the inner Galaxy.*
 
