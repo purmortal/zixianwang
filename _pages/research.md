@@ -4,6 +4,14 @@ title: "Research"
 author_profile: true
 ---
 
+Contents
+======
+
+- [Machine learning in stellar spectroscopy](#machine-learning-in-stellar-spectroscopy)
+- [Globular clusters](#globular-clusters)
+- [Galactic bulge](#galactic-bulge)
+- [Linking Galactic and extragalactic](#linking-galactic-and-extragalactic)
+
 Machine learning in stellar spectroscopy
 ======
 
