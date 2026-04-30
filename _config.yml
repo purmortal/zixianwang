@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Dr"
+title                    : "Dr Zixian Wang"
 title_separator          : "-"
 name                     : &name "Zixian Wang"
 description              : &description "Astrophysicist working on stellar spectroscopy, Galactic archaeology, stellar populations, and integral-field spectroscopy."
@@ -82,14 +82,14 @@ author:
   zhihu            :
 
   
-# Publication Category - The following the list of publication categories and their headings
-publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+# # Publication Category - The following the list of publication categories and their headings
+# publication_category:
+#   books:
+#     title: 'Books'
+#   manuscripts:
+#     title: 'Journal Articles'    
+#   conferences:
+#     title: 'Conference Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
@@ -302,7 +302,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Etc/UTC # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Australia/Sydney # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
