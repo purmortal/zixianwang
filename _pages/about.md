@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Research Associate in the Department of Physics & Astronomy at the University of Utah. I received my PhD in Astronomy and Astrophysics from the University of Sydney in 2023, and my BSc in Astronomy from Nanjing University in 2019.
+I am a Postdoctoral Research Associate in the Department of Physics & Astronomy at the [University of Utah](https://www.physics.utah.edu/research/astronomy/). I received my PhD in the [Sydney Institute for Astronomy (SIfA)](https://sifa.sydney.edu.au/) from the [University of Sydney](https://www.sydney.edu.au/) in 2023, and my BSc in Astronomy from [Nanjing University](https://www.nju.edu.cn/en/) in 2019.
 
 My research focuses on stellar spectroscopy, stellar populations, Galactic archaeology, and galaxy evolution. I am particularly interested in using integral-field spectroscopy and machine-learning techniques to study individual stars in crowded regions of the Milky Way and to connect detailed Milky Way studies with integrated-light observations of external galaxies.
 
