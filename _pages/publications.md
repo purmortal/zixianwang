@@ -18,7 +18,7 @@ First-author and significant-contribution publications
 
 1. **Zixian Wang**, Anil C. Seth, Callie Clontz, Nadine Neumayer, Maximilian Häberle, et al.,  
    “oMEGACat. IX. Chemical Tagging of Omega Centauri Populations with Machine-Learning-Inferred Abundances from the MUSE Spectrograph”,  
-   2026, arXiv, arXiv:2603.01041, *submitted to ApJ*.  
+   2026, arXiv, arXiv:2603.01041, *accepted for publication in ApJ*.  
    [[NASA ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260301041W/abstract)]
 
 2. **Zixian Wang**, Michael R. Hayden, Sanjib Sharma, Joss Bland-Hawthorn, Anil C. Seth, Gail Zasowski,  
